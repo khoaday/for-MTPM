@@ -8,7 +8,7 @@ body {
     height: 100vh;
     margin: 0;
     overflow: hidden;
-    background-image: url('https://source.unsplash.com/random/1600x900/?nature,love');
+    background-image: url('https://source.unsplash.com/random/1600x900/?love');
     background-size: cover;
     background-position: center;
 }
